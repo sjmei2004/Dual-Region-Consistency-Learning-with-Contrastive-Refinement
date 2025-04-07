@@ -1,0 +1,9 @@
+python
+numpy
+torch
+h5py
+nibabel
+scipy
+skimage
+tqdm
+medpy
